@@ -1,6 +1,6 @@
 # Task Management API - QA Automation Assignment
 
-[![CI/CD Pipeline](https://github.com/pokotiX/qa-automation-task/workflows/CI%2FCD%20Pipeline/badge.svg)](https://github.com/pokotiX/qa-automation-task/actions)
+[![CI/CD Pipeline](https://github.com/pokotiX/qa-automation-task/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/pokotiX/qa-automation-task/actions/workflows/ci-cd.yml)
 [![Java 21](https://img.shields.io/badge/Java-21-orange.svg)](https://openjdk.java.net/projects/jdk/21/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.0-brightgreen.svg)](https://spring.io/projects/spring-boot)
 [![Maven](https://img.shields.io/badge/Maven-3.6+-blue.svg)](https://maven.apache.org/)
